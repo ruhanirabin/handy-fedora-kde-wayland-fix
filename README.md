@@ -36,10 +36,10 @@ Using kwtype for direct text input on KDE Wayland
 ⚠️ Do not use `sudo bash`. Just use the following command:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ruhanirabin/handy-fedora-kde-wayland-fix/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ruhanirabin/handy-fedora-kde-wayland-fix/main/install-kwtype-fedora.sh | bash
 ```
 
-The script will ask for sudo only when it needs to install Fedora packages or create the log directory.
+The script **will ask for sudo** only when it needs to install Fedora packages or create the log directory.
 
 It installs KWtype to:
 
